@@ -1,0 +1,1 @@
+hc-temporal-fc5b0f72-Zm4kR9xN1786765538 — temporal cache test content for code search invalidation measurement. This distinctive string exists to test whether search results persist after a visibility change removes the searcher's access.
